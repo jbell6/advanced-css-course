@@ -62,7 +62,7 @@ body {
     display: block;
     font-size: 60px;
     font-weight: 400;
-    letter-spacing: 15px;
+    letter-spacing: 35px;
 
     animation-name: moveInLeft;
     animation-duration: 3s;
@@ -78,7 +78,7 @@ body {
     display: block;
     font-size: 20px;
     font-weight: 700;
-    letter-spacing: 17.4px;
+    letter-spacing: 5.4px;
 }
 
 @keyframes moveInLeft {
