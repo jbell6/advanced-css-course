@@ -50,6 +50,10 @@ body {
     height: 55px;
 }
 
+/* .logo:hover {
+    animation: moveInRight 1s ease-out;
+} */
+
 .text-box {
     position: absolute;
     top:40%;
