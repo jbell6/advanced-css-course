@@ -26,9 +26,9 @@ body {
     height: 95vh;
     background-image: linear-gradient(
         to right bottom,
-        #7ed56fb6,
-        #28b485b9 ), 
-        url(../img/hero.jpg);
+        #00264983,
+        rgba(97, 66, 66, 0.493) ), 
+        url(../img/Aerial-View-of-the-Quad.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -38,12 +38,12 @@ body {
 
 .logo-box {
     position: absolute;
-    top: 40px;
+    top: 30px;
     left: 40px;
 }
 
 .logo {
-    height: 35px;
+    height: 55px;
 }
 
 .text-box {
@@ -62,7 +62,7 @@ body {
     display: block;
     font-size: 60px;
     font-weight: 400;
-    letter-spacing: 35px;
+    letter-spacing: 15px;
 
     animation-name: moveInLeft;
     animation-duration: 3s;
