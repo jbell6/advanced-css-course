@@ -9,6 +9,15 @@ Dark green: #28b485
 control + d + click - select all occurances
 alt + click - place multiple cursors
 
+specificity:
+1. inline
+2. id
+3. class
+4. element
+5. * - universal select
+
+* specificity over order - unless 3rd party stylesheets
+
 */
 
 * {
